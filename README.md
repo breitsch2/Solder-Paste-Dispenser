@@ -8,7 +8,12 @@ Maker Media GmbH
 
 ### Umbau einer Mini-CNC-Fräse zu einem Lötpasten-Dispenser für SMD-Bestückung
 
-### von Carsten Meyer
+Also possible with maXbox4 Scripting
+
+![1247_tcomport_dispenser_gui1](https://github.com/breitsch2/Solder-Paste-Dispenser/assets/109789632/76e7bf0d-b1d3-46fb-a83c-63ce2aa9e890)
+
+### von Carsten Meyer und Max Kleiner
+maXbox a script tool engine, compilerlib all in one exe! Build to teach/ develop under Windows and Linux (CLX) to set Delphi with no install. maXbox has RemObjects PascalScript smart code. With include,events print, decompile, syncheck, templates, VM-, and DLL support. +Indy,Jedi,CGI,DMath,CAI,FLC5 & Systools.4.0 with CryptoBox4 and ComPort for Arduino!, OS Lib mX4- Build mX4.7.6.50 
 
 **Teure Edelstahl-Pastenschablonen und die unvermeidliche Sauerei beim Aufragen erspart man sich mit unserem DIY-Dispenser: So macht SMD-Bestücken wieder Spaß!**
 
